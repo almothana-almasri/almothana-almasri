@@ -34,13 +34,13 @@ Here are some of my recent projects:
 
 ## 📈 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=almothana-almasri&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&layout=compact&theme=radical)](https://github.com/myusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almothana-almasri&layout=compact&theme=radical)](https://github.com/almothana-almasri)
 
 ## 📫 Contact Me
 
-- Email: myemail@example.com
+- Email: mothana.almasri.99@gmail.com
 - LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/myusername/)
 - Portfolio: [My portfolio website](https://www.myportfolio.com/)
 
