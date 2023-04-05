@@ -21,7 +21,7 @@ Here are some of my key skills and areas of expertise:
 
 Here are some of my recent projects:
 
-- [Project name]([link](https://github.com/almothana-almasri/travel-destination)): Short description of the project.
+- [Project name](https://github.com/almothana-almasri/travel-destination): Short description of the project.
 - [Project name](link): Short description of the project.
 - [Project name](link): Short description of the project.
 
