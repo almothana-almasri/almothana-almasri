@@ -21,9 +21,8 @@ Here are some of my key skills and areas of expertise:
 
 Here are some of my recent projects:
 
-- [Project name](https://github.com/almothana-almasri/travel-destination): Short description of the project.
-- [Project name](link): Short description of the project.
-- [Project name](link): Short description of the project.
+- [Travel-Destinations](https://github.com/almothana-almasri/travel-destination): \\..//
+- [HR-management-system](https://almothana-almasri.github.io/HR-management-system/): This is an Employee Management System that allows you to create, store, and display information about employees. The program is written in JavaScript and runs on the browser.
 
 ## 📈 Stats
 
