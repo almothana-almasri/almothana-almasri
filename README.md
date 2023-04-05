@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm **Almothana Almasri**, a Full-Stack developer and an Electrical Power Engineer from Amman, Jordan.
+I'm **Almothana Almasri**, a Full-Stack developer and an Electrical Power Engineer.
 
 ## 🚀 Skills
 
