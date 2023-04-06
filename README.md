@@ -10,9 +10,9 @@ I'm **Almothana Almasri**, a Full-Stack developer and an Electrical Power Engine
 
 Here are some of my key skills and areas of expertise:
 
-- Programming languages: JavaScript, Python, Java, C++
+- Programming languages: JavaScript, Java, C++
 - Front-end development: HTML, CSS, React
-- Back-end development: Node.js, Express, Django
+- Back-end development: Node.js, Express, 
 - Database management: PsotgresSQL
 - DevOps:
 - Agile methodologies:
