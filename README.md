@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm **Almothana Almasri**, aN Electrical Power Engineer and a Full-Stack developer.
+I'm **Almothana Almasri**, an Electrical Power Engineer and a Full-Stack developer.
 
 ## 🚀 Skills
 
