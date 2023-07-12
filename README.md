@@ -2,7 +2,7 @@ I'm **Almothana Almasri**, an Electrical Power Engineer and a Full-Stack develop
 
 ## 📈 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=almothana-almasri&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almothana-almasri&layout=compact&theme=radical)](https://github.com/almothana-almasri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almothana-almasri&layout=compact&theme=radical)](https://github.com/almothana-almasri)
 
 ## 📫 Contact Me
 
